@@ -1,0 +1,2 @@
+los lenguajes de programas imperativos nosotros le decimos como debe ejecutar las instrucciones paso a paso
+y los lenguajes de programas declarativos solo le decimos que hacer pero no como debe hacerlo
