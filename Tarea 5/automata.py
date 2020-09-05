@@ -1,5 +1,5 @@
 cadena = '__servidor1'
-cadena2 = '4servidor'
+cadena2 = '3servidor'
 def AFD(entrada):
     estado=0
     for letra in range(len(entrada)):
